@@ -1,5 +1,27 @@
 # modul3
 
+Studi Kasus Konsep Inheritance (Classroom: Toko)
+
+Pertama
+
+![alt text](https://github.com/Fifiagustina/modul3/blob/master/tugascr1/1.JPG)
+
+Kedua
+
+![alt text](https://github.com/Fifiagustina/modul3/blob/master/tugascr1/2.JPG)
+
+Ketiga
+
+![alt text](https://github.com/Fifiagustina/modul3/blob/master/tugascr1/3.JPG)
+
+Keluaran
+
+![alt text](https://github.com/Fifiagustina/modul3/blob/master/tugascr1/hasil.JPG)
+
+*****************************************************************************
+
+LATIHAN
+
 latihan 1
 
 ![alt text](https://github.com/Fifiagustina/modul3/blob/master/lat1.JPG)
